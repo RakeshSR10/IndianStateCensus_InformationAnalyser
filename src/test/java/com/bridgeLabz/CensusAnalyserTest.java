@@ -12,7 +12,7 @@ public class CensusAnalyserTest {
     private static final String WRONG_CSV_FILE_PATH = "./src/main/resources/IndiaStateCensusData.csv";
 
     //UC1 - TC1.1 Given the States Census CSV file, Check to ensure the number of Records matches
-    @org.junit.Test
+    @Test
     public void givenIndianCensusCSVFileReturnsCorrectRecords() {
         try {
             CensusAnalyser censusAnalyser = new CensusAnalyser();
