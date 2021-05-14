@@ -1,0 +1,2 @@
+com/bridgeLabz/CensusAnalyserTest.java
+ com.bridgeLabz.CensusAnalyserTest
